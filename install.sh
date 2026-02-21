@@ -21,3 +21,4 @@ history -c
 source /root/.bashrc 2>/dev/null
 
 echo -e "\e[31mĐã xóa dấu vết!"
+exit
